@@ -4,7 +4,7 @@ Bu anbar (repository) **Python backend**, **Riyazi Modelləşdirmə**, **Data An
 
 ---
 
-## 🛠️ İstifadə Olunan Texnologiyalar və Kitabxanalar
+##  İstifadə Olunan Texnologiyalar və Kitabxanalar
 
 Layihələrdə geniş tətbiq olunan və davamlı olaraq istifadə etdiyim əsas alətlər:
 
