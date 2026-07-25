@@ -16,7 +16,7 @@ Layihələrdə geniş tətbiq olunan və davamlı olaraq istifadə etdiyim əsas
 
 ---
 
-## 🚀 Əsas Mövzular və Fayllar
+##  Əsas Mövzular və Fayllar
 
 * 📊 **Data Science & Analytics:** Məlumatların təmizlənməsi, analizi və vizualizasiyası.
 * 🪐 **Riyazi Modelləşdirmə:** Məkan/koordinat hesablamaları və optimallaşdırma layihələri.
@@ -24,4 +24,4 @@ Layihələrdə geniş tətbiq olunan və davamlı olaraq istifadə etdiyim əsas
 
 ---
 
-📫 *Bu layihələr davamlı olaraq yenilənir və yeni Data Science / Python həlləri ilə zənginləşdirilir.*
+*Bu layihələr davamlı olaraq yenilənir və yeni Data Science / Python həlləri ilə zənginləşdirilir.*
